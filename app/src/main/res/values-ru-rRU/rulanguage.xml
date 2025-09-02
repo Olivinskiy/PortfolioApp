@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="info">Информация</string>
+    <string name="projects">Проекты</string>
+    <string name="socialmedia">Связь со мной</string>
+
+    <string name="infome">Привет!\n\nAndroid разработчик.\nУчусь в университете.</string>
+
+</resources>

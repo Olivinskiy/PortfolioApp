@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">PortfolioApp</string>
+    <string name="title_activity_second">SecondActivity</string>
+    <string name="title_activity_splash">SplashActivity</string>
+
+    <string name="info">Information</string>
+    <string name="projects">Projects</string>
+    <string name="socialmedia">Contacts</string>
+
+    <string name="infome">Hello!\n\nMy name is Maxim, and I am an Android developer.\nI am studying at university.</string>
+</resources>
